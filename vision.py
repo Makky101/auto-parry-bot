@@ -1,0 +1,1 @@
+# This is the file for detecting neon red ball and avatar

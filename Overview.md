@@ -10,6 +10,7 @@
 # Tools
 -python
 -Opencv
+-mss
 -pydirectinput
 
 ## Step 1
